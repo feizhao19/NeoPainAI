@@ -1,2 +1,8 @@
 data/
 
+*.DS_Store
+checkpoint*
+*.pt
+*.h5
+
+
