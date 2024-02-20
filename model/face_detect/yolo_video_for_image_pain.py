@@ -7,7 +7,7 @@ import cv2
 import numpy as np
 
 def detect_img(yolo):
-    dir_file = "/data/user/larry5/phd_projects/PainDetector/data/USF/keyframe/"
+    dir_file = "../data/USF/keyframe/" 
     
     imgAddress_pain = dir_file + "pain/"
 #     imgAddress_no_pain = dir_file + "no_pain/"
