@@ -1,7 +1,7 @@
 # Pain Detection
 
 ## Description
-Pain Detection is a deep learning-based project aimed at predicting the pain severity level using facial information from images. Leveraging advanced machine learning algorithms, this project analyzes facial expressions to assess pain states, offering a non-invasive method to evaluate pain state. 
+Pain Detection is a deep learning-based project aimed at assessing pain states using facial information from images, offering a non-invasive method to evaluate pain states. 
 
 
 ## Technologies Used
