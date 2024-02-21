@@ -1,7 +1,7 @@
 # Pain Detection
 
 ## Description
-Pain Detection is a deep learning-based project aimed at predicting the pain severity level using facial information from images. Leveraging advanced machine learning algorithms, this project analyzes facial expressions to assess pain states, offering a non-invasive method to evaluate pain in individuals. 
+Pain Detection is a deep learning-based project aimed at predicting the pain severity level using facial information from images. Leveraging advanced machine learning algorithms, this project analyzes facial expressions to assess pain states, offering a non-invasive method to evaluate pain state. 
 
 
 ## Technologies Used
@@ -19,7 +19,6 @@ To set up the Pain Detection project locally, follow these steps:
 4. Create a Conda environment using the `env.yml` file located in the `env` folder:
    ```bash
    conda env create -f env/env.yml
-
 
 ## Features
 - Utilizes state-of-the-art face detection models to accurately extract facial information from images.
