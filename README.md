@@ -33,5 +33,9 @@ To set up the Pain Detection project locally, follow these steps:
 
 (Please note that to use these datasets, you need to contact the owners directly for access permissions.)
 
+
+## Others
+Model weights can be found at: [weights](https://uab.box.com/s/qtmygwcxhxz3kjl8f9s440fmyv8gtp9g)
+
 ## Acknowledgements
 This project would not have been possible without the valuable datasets provided by the COPE and USF-MNPAD-I studies. We extend our gratitude to the researchers and participants involved in these studies for their contributions to the advancement of pain detection research.
