@@ -23,7 +23,6 @@ To set up the Pain Detection project locally, follow these steps:
 ## Features
 - Utilizes state-of-the-art face detection models to accurately extract facial information from images.
 - Predicts pain state based on facial expressions, aiding in medical assessments and research.
-- Supports integration with different datasets for comprehensive training and validation.
 
 
 ## Dataset
