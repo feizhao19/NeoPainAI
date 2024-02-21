@@ -21,7 +21,7 @@ To set up the Pain Detection project locally, follow these steps:
    conda env create -f env/env.yml
 
 ## Features
-- Utilizes state-of-the-art face detection models to accurately extract facial information from images.
+- Utilizes state-of-the-art face detection models to accurately detect face regions from images.
 - Predicts pain state based on facial expressions, aiding in medical assessments and research.
 
 
