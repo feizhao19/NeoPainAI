@@ -11,7 +11,7 @@ Neonatal pain is often under-detected in clinical settings. This project propose
 The proposed workflow consists of three stages: **pre-training**, **fine-tuning on neonatal data**, and **clinical inference with human-in-the-loop fallback**.
 
 <p align="center">
-  <img src="data/over_all_pic.png" alt="Overall structure of the NeoPainAI pipeline" width="900"/>
+  <img src="data/over_all_pic.png" alt="Overall structure of the NeoPainAI pipeline" width="630"/>
 </p>
 
 | Stage | Input | Core Models | Output |
